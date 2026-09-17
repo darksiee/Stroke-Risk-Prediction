@@ -34,7 +34,7 @@ The project compares:
 
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
-- Random Forest
+- Random Forestts
 - AdaBoostted
 
 The tuned Random Forest model was selected for deployment based on the reported results:
