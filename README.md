@@ -41,7 +41,7 @@ The tuned Random Forest model was selected for deployment based on the reported 
 
 | Model | Train Accuracy | Test Accuracy |
 | --- | ---: | ---: |
-| Logistic Regression | 79% | 77% |
+| Logistic Regression | 79% | 90% |
 | KNN | 90% | 87% |
 | Random Forest | 100% | 93% |
 | Tuned Random Forest | **96%** | **91%** |
